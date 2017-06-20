@@ -11,7 +11,7 @@
 -   [Kinesis Advantage Keyboard Case](http://www.jones.ec/blogs/a/entry/kinesis_advantage_keyboard_case/) - Get a case for your keyboard
 -   [Kinesis Advantage with DSA keycaps](http://sitr.us/2014/05/19/kinesis-advantage-with-dsa-keycaps.html) - Great reproducible writeup
 -   [Kinesis Freestyle Keyboard Firmware Hacks](https://github.com/rbasoalto/kinesis-freestyle-fw-hack)
--   [Kinesis Freestyle 2 Keyboard 'Mod' (to Fix Media Keys)](http://alvarop.com/2013/08/kinesis-freestyle-2-keyboard-mod-to-fix-media-keys) - 
+-   [Kinesis Freestyle 2 Keyboard 'Mod' (to Fix Media Keys)](http://alvarop.com/2013/08/kinesis-freestyle-2-keyboard-mod-to-fix-media-keys)
 -   [Kinesis Keyboard Gallery](http://xahlee.info/kbd/keyboard_Kinesis_cool_gallery.html) - Cool gallery including lots of mods and even backlighting
 -   [Kinesis remodeling plan](https://translate.google.com/translate?hl=en&ie=UTF8&prev=_t&rurl=translate.google.com&sl=ja&tl=en&twu=1&u=http://d.hatena.ne.jp/satromi/20081012/1223800934) - Translated from Japanese, someone adding a trackpoint to their keyboard
 -   [SA Profile Keys on a Kinesis Advantage](https://adereth.github.io/blog/2015/02/17/sa-profile-keys-on-a-kinesis-advantage/) - Lots of pictures and super cool colorful keycaps
