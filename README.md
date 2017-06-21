@@ -14,6 +14,7 @@
 -   [Kinesis Freestyle 2 Keyboard 'Mod' (to Fix Media Keys)](http://alvarop.com/2013/08/kinesis-freestyle-2-keyboard-mod-to-fix-media-keys)
 -   [Kinesis Keyboard Gallery](http://xahlee.info/kbd/keyboard_Kinesis_cool_gallery.html) - Cool gallery including lots of mods and even backlighting
 -   [Kinesis remodeling plan](https://translate.google.com/translate?hl=en&ie=UTF8&prev=_t&rurl=translate.google.com&sl=ja&tl=en&twu=1&u=http://d.hatena.ne.jp/satromi/20081012/1223800934) - Translated from Japanese, someone adding a trackpoint to their keyboard
+-   [Remapping Keypad on Kinesis Advantage Keyboard](http://geoff.evason.name/2015/04/30/remapping-keypad-on-a-kinesis-advantage-keyboard) - Use foot switch accessory (if you have one) to remap the keypad
 -   [SA Profile Keys on a Kinesis Advantage](https://adereth.github.io/blog/2015/02/17/sa-profile-keys-on-a-kinesis-advantage/) - Lots of pictures and super cool colorful keycaps
 -   [The Kinesis Contoured Keyboard and Dvorak Layout](http://joshcarter.com/productivity/kinesis_contoured_keyboard) - Hand painted Kinesis Contoured keyboard
 -   [The Kinesis Conversion](http://tech.skryl.org/post/60613686455/the-kinesis-conversion) - Convert a Kinesis to use Cherry Blue switches
