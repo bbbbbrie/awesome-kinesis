@@ -24,6 +24,7 @@
 
 ## References
 *References for additional information about the Kinesis keyboard*
+-   [Keyboard layouts and maros for the Kinesis Advantage 2 keyboard.](https://github.com/farmergreg/kinesis-advantage-2) - Optimizing Kinesis usage for vim, programming, gaming and more!
 -   [Keycap Replacement Charts](https://deskthority.net/wiki/Kinesis_Contoured#Keycaps) - by way of Deskthority
 -   [@kinesisergo on Twitter](https://twitter.com/kinesisergo) - Kinesis Ergo on Twitter
 -   [Kinesis Advantage - Everything you want to know but are afraid to task!](https://geekhack.org/index.php?topic=8110.0) - Detailed geekhack thread
