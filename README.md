@@ -32,6 +32,7 @@
 -   [Kinesis Keyboard Key Remap/Macro/Layout How-To](http://xahlee.info/kbd/kinesis_keyboard_howto.html) - Detailed guide on switching layouts, remapping keys, setting macros and more.
 -   [Mechanical Aspects of Kinesis Advantage keys](https://www.fysh.org/~zefram/keyboard/advantage_keys_mech.txt) - Details on the physical and mechanical makeup of the keys
 -   [Official Kinesis Manuals (all models)](https://www.kinesis-ergo.com/support/technical-support/manuals-drivers/) - Manuals for all models of Kinesis keyboards and accessories
+-   [Advantage2-SmartSet-App](https://github.com/KinesisCorporation/Advantage2-SmartSet-App) - Open sourced GUI for modifying the Advantage 2
 
 
 ## Shopping
