@@ -31,6 +31,7 @@
 -   [Kinesis Advantage - Everything you want to know but are afraid to task!](https://geekhack.org/index.php?topic=8110.0) - Detailed geekhack thread
 -   [Kinesis Contoured on Deskthority](https://deskthority.net/wiki/Kinesis_Contoured) - Deskthority article
 -   [Kinesis Keyboard Key Remap/Macro/Layout How-To](http://xahlee.info/kbd/kinesis_keyboard_howto.html) - Detailed guide on switching layouts, remapping keys, setting macros and more.
+-   [Kinesis Reference](https://web.mit.edu/jmorzins/Public/kinesisCheatSheet.html)
 -   [Mechanical Aspects of Kinesis Advantage keys](https://www.fysh.org/~zefram/keyboard/advantage_keys_mech.txt) - Details on the physical and mechanical makeup of the keys
 -   [Official Kinesis Manuals (all models)](https://www.kinesis-ergo.com/support/technical-support/manuals-drivers/) - Manuals for all models of Kinesis keyboards and accessories
 -   [Wikipedia page on Kinesis (keyboard)](https://en.wikipedia.org/wiki/Kinesis_(keyboard)) - From Wikipedia, the free encyclopedia
