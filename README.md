@@ -43,4 +43,4 @@
 -  [Seahorse SE-720 - Waterproof Case](http://www.seahorsecases.net/seahorse-se-720.html) - Case that may be used for your keyboard, as recommended above
 
 ## Software
--  [Linux Driver for Kinesis Freestyle 2](https://github.com/whereswaldon/kfreestyle2d)git
+-  [Linux Driver for Kinesis Freestyle 2](https://github.com/whereswaldon/kfreestyle2d)
