@@ -21,6 +21,7 @@
 -   [SA Profile Keys on a Kinesis Advantage](https://adereth.github.io/blog/2015/02/17/sa-profile-keys-on-a-kinesis-advantage/) - Lots of pictures and super cool colorful keycaps
 -   [The Kinesis Contoured Keyboard and Dvorak Layout](http://joshcarter.com/productivity/kinesis_contoured_keyboard) - Hand painted Kinesis Contoured keyboard
 -   [The Kinesis Conversion](http://tech.skryl.org/post/60613686455/the-kinesis-conversion) - Convert a Kinesis to use Cherry Blue switches
+-   [Bluetooth Kinesis Advantage](https://github.com/sysdevmike/KinesisBLE) - Convert an Advantage to use bluetooth with USB charging.
 
 ## References
 *References for additional information about the Kinesis keyboard*
