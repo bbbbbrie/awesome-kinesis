@@ -1,4 +1,4 @@
-# Awesome Kinesis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/bbbbbrie/awesome-kinesis.svg) ![GitHub contributors](https://img.shields.io/github/contributors/bbbbbrie/awesome-kinesis)
+# Awesome Kinesis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![GitHub last commit](https://img.shields.io/github/last-commit/bbbbbrie/awesome-kinesis) ![GitHub contributors](https://img.shields.io/github/contributors/bbbbbrie/awesome-kinesis)
 
 > A curated list of projects, resources and references for Kinesis keyboard enthusiasts (unofficial, not affiliated with Kinesis)
 
