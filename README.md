@@ -24,6 +24,7 @@
 -   [Hacking your own Kinesis keyboard controller](https://michael.stapelberg.ch/posts/2013-03-21-kinesis_custom_controller/) - Make a Kinesis compatible with QMK firmware (https://docs.qmk.fm/#/) AKA “Stapelberg Mod”
 -   [Opinionated pack of layouts (Kinesis Advantage 2 or QMK compatible)](https://github.com/vlnn/kinesis-advantage-2) - Never go far away from the home row with Alt, Win, Ctrl and Shift mapped to A,S,D,F and J,K,L,;.
 -   [Bluetooth Kinesis Advantage](https://github.com/sysdevmike/KinesisBLE) - Convert an Advantage to use bluetooth with USB charging.
+
 ## References
 *References for additional information about the Kinesis keyboard*
 -   [Advantage2-SmartSet-App](https://github.com/KinesisCorporation/Advantage2-SmartSet-App) - Open sourced GUI for modifying the Advantage 2
