@@ -9,6 +9,7 @@
 -   [Backlit Kinesis board on YouTube](https://youtu.be/n8WKy7WP7Ls) - Kinesis with LEDs in action
 -   [Backlit Kinesis write up](https://geekhack.org/index.php?topic=45078.0) - Write up on the abovementioned backlit Kinesis
 -   [Changing the Key Switches in a Kinesis Advantage Keyboard](http://www.gilesorr.com/misc/keyboards/kinesiskeys.html) - Brief guide on replacing the switches
+-   [Hacking the Kinesis Keyboard for more Buttons](https://blog.d46.us/hacking-kinesis-keyboard/) 
 -   [Keyboard firmware](https://github.com/chrisandreae/keyboard-firmware) - Replacement firmware for various keyboard (Kinesis, Ergodox) using an Atmel AVR microcontroller
 -   [Kinesis Advantage Keyboard Case](http://www.jones.ec/blogs/a/entry/kinesis_advantage_keyboard_case/) - Get a case for your keyboard
 -   [Kinesis Advantage with Cherry MX Green switches](https://imgur.com/a/lEqK7) - Great build log and inventory guide
