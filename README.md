@@ -48,3 +48,6 @@
 
 ## Software
 -  [Linux Driver for Kinesis Freestyle 2](https://github.com/whereswaldon/kfreestyle2d)
+
+## Support
+-  [Contact a Technician](https://kinesis-ergo.com/support/contact-a-technician/) - Submit a ticket for assistance with your Kinesis keyboard.
