@@ -27,6 +27,8 @@
 -   [Opinionated pack of layouts (Kinesis Advantage 2 or QMK compatible)](https://github.com/vlnn/kinesis-advantage-2) - Never go far away from the home row with Alt, Win, Ctrl and Shift mapped to A,S,D,F and J,K,L,;.
 -   [Bluetooth Kinesis Advantage](https://github.com/sysdevmike/KinesisBLE) - Convert an Advantage to use bluetooth with USB charging.
 
+-   [Kinesis Advantage](https://github.com/diimdeep/awesome-split-keyboards#kinesis-advantage) on the [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) awesome list. Awesome! 
+
 ## References
 *References for additional information about the Kinesis keyboard*
 -   [KinesisCorporation/SmartSetApps](https://github.com/KinesisCorporation/SmartSetApps) - SmartSet apps for keyboards, foots pedals and more 
