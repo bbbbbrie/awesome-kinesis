@@ -47,6 +47,7 @@
 ## Shopping
 -  [Kinesis Keyboards](https://www.kinesis-ergo.com/products/) - Kinesis keyboards website
 -  [Seahorse SE-720 - Waterproof Case](http://www.seahorsecases.net/seahorse-se-720.html) - Case that may be used for your keyboard, as recommended above
+-  [Kinesis Advantage PBT keycaps](https://keycap.sh/) - PBT blank DCS replacement keycaps for the Kinesis Advantage.
 
 ## Software
 -  [Linux Driver for Kinesis Freestyle 2](https://github.com/whereswaldon/kfreestyle2d)
