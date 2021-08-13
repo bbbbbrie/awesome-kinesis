@@ -11,7 +11,7 @@
 -   [Changing the Key Switches in a Kinesis Advantage Keyboard](http://www.gilesorr.com/misc/keyboards/kinesiskeys.html) - Brief guide on replacing the switches
 -   [Hacking the Kinesis Keyboard for more Buttons](https://blog.d46.us/hacking-kinesis-keyboard/) 
 -   [Keyboard firmware](https://github.com/chrisandreae/keyboard-firmware) - Replacement firmware for various keyboard (Kinesis, Ergodox) using an Atmel AVR microcontroller
--   [Kinesis Advantage Keyboard Case](http://www.jones.ec/blogs/a/entry/kinesis_advantage_keyboard_case/) - Get a case for your keyboard
+-   [Kinesis Advantage Keyboard Case](http://www.jones.ec/blogs/a/entry/kinesis_advantage_keyboard_case) - Get a case for your keyboard
 -   [Kinesis Advantage with Cherry MX Green switches](https://imgur.com/a/lEqK7) - Great build log and inventory guide
 -   [Kinesis Advantage with DSA keycaps](http://sitr.us/2014/05/19/kinesis-advantage-with-dsa-keycaps.html) - Great reproducible writeup
 -   [Kinesis Freestyle Keyboard Firmware Hacks](https://github.com/rbasoalto/kinesis-freestyle-fw-hack)
