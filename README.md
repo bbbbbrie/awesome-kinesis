@@ -49,6 +49,16 @@
 -  [Seahorse SE-720 - Waterproof Case](http://www.seahorsecases.net/seahorse-se-720.html) - Case that may be used for your keyboard, as recommended above
 -  [Kinesis Advantage PBT keycaps](https://keycap.sh/) - PBT blank DCS replacement keycaps for the Kinesis Advantage.
 
+### Keyboards
+
+  - [Advantage2](https://kinesis-ergo.com/keyboards/advantage2-keyboard/)
+  - [Freestyle Pro](https://kinesis-ergo.com/products/#freestyle-pro)
+  - [Freestyle2](https://kinesis-ergo.com/products/#freestyle2)
+  - [Advantage360](https://kinesis-ergo.com/keyboards/advantage360/) - Coming Late 2022
+
+See [Support for my Device](https://kinesis-ergo.com/support/#support-for-my-device) for a list of available products, including models that have been discontinued (Advantage keyboard). 
+
+
 ## Software
 -  [Linux Driver for Kinesis Freestyle 2](https://github.com/whereswaldon/kfreestyle2d)
 -  [Kinesis Advantage2 remapping helper](https://github.com/kijowski/kinesis) - Simple tool to help Kinesis Advantage2 owners with visualization of their remap files. Live version available at [kinesis.vercel.app](https://kinesis.vercel.app/)
