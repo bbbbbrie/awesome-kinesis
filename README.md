@@ -65,3 +65,12 @@ See [Support for my Device](https://kinesis-ergo.com/support/#support-for-my-dev
 
 ## Support
 -  [Contact a Technician](https://kinesis-ergo.com/support/contact-a-technician/) - Submit a ticket for assistance with your Kinesis keyboard.
+
+
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bbbbbrie/awesome-kinesis&type=Date)](https://star-history.com/#bbbbbrie/awesome-kinesis&Date)
+
