@@ -64,7 +64,13 @@ See [Support for my Device](https://kinesis-ergo.com/support/#support-for-my-dev
 -  [Linux Driver for Kinesis Freestyle 2](https://github.com/whereswaldon/kfreestyle2d)
 -  [Kinesis Advantage2 remapping helper](https://github.com/kijowski/kinesis) - Simple tool to help Kinesis Advantage2 owners with visualization of their remap files. Live version available at [kinesis.vercel.app](https://kinesis.vercel.app/)
 
-## Support
+## Official Links
+
+- Shop [Refurbished keyboards](https://kinesis-ergo.com/products/#refurbished) directly from Kinesis
+- [Kinesis Corporation](https://www.youtube.com/channel/UCvTinkC1BxCyADIqEYRlYvg/feed) on YouTube
+- [Kinesis Corporation on Facebook](https://www.facebook.com/KinesisErgo)
+
+### Support
 -  [Contact a Technician](https://kinesis-ergo.com/support/contact-a-technician/) - Submit a ticket for assistance with your Kinesis keyboard.
 
 ## Desk Setups featuring a Kinesis
