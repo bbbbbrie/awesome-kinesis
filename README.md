@@ -67,7 +67,9 @@ See [Support for my Device](https://kinesis-ergo.com/support/#support-for-my-dev
 ## Support
 -  [Contact a Technician](https://kinesis-ergo.com/support/contact-a-technician/) - Submit a ticket for assistance with your Kinesis keyboard.
 
+## Desk Setups featuring a Kinesis
 
+- [Forty Years of Programming](https://fabiensanglard.net/40/index.html) - Fabien Sanglard
 
 ---
 
