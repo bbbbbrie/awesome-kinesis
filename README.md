@@ -6,7 +6,6 @@
 *Source code, write-ups and recaps from bold adventurers who have modded their keyboards. In many cases, the details are sufficient for these to serve as walkthroughs.*
 -   [Access the on-board drive](https://gist.github.com/nicholasknight/181375ee15f9cb89d3c69f4cc2b63df9) - Experiment with accessing the FAT12 filesystem
 -   [Adding extra keys to your Kinesis Advantage](https://geekhack.org/index.php?topic=26579.0) 
--   [Backlit Kinesis board on YouTube](https://youtu.be/n8WKy7WP7Ls) - Kinesis with LEDs in action
 -   [Backlit Kinesis write up](https://geekhack.org/index.php?topic=45078.0) - Write up on the abovementioned backlit Kinesis
 -   [Changing the Key Switches in a Kinesis Advantage Keyboard](http://www.gilesorr.com/misc/keyboards/kinesiskeys.html) - Brief guide on replacing the switches
 -   [Hacking the Kinesis Keyboard for more Buttons](https://blog.d46.us/hacking-kinesis-keyboard/) 
@@ -28,6 +27,11 @@
 -   [Bluetooth Kinesis Advantage](https://github.com/sysdevmike/KinesisBLE) - Convert an Advantage to use bluetooth with USB charging.
 -   [Kinesis Essential rebuild with Bluetooth](https://www.reddit.com/r/ErgoMechKeyboards/comments/l80af7/kinesis_essential_rebuild_with_bluetooth/)
 -   [Kinesis Advantage](https://github.com/diimdeep/awesome-split-keyboards#kinesis-advantage) on the [awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) awesome list. Awesome! 
+
+### 🎥 Kinesis Mods on YouTube
+
+-   [Backlit Kinesis board on YouTube](https://youtu.be/n8WKy7WP7Ls) - Kinesis with LEDs in action
+-   [Modified Kinesis Advantage keyboard with addressable RGB LEDs](https://www.youtube.com/watch?v=kqbhsC_dX-0)
 
 ## References
 *References for additional information about the Kinesis keyboard*
