@@ -47,6 +47,7 @@
 -   [Mechanical Aspects of Kinesis Advantage keys](https://www.fysh.org/~zefram/keyboard/advantage_keys_mech.txt) - Details on the physical and mechanical makeup of the keys
 -   [Official Kinesis Manuals (all models)](https://www.kinesis-ergo.com/support/technical-support/manuals-drivers/) - Manuals for all models of Kinesis keyboards and accessories
 -   [Wikipedia page on Kinesis (keyboard)](https://en.wikipedia.org/wiki/Kinesis_(keyboard)) - From Wikipedia, the free encyclopedia
+-   [Repetitive Strain Injury](https://michaeluloth.com/rsi/) - There's a subsection on the Kinesis on Michael Uloth's site. @ooloth
 
 ## Shopping
 -  [Kinesis Keyboards](https://www.kinesis-ergo.com/products/) - Kinesis keyboards website
