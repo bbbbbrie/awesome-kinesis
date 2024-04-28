@@ -59,7 +59,7 @@
   - [Advantage2](https://kinesis-ergo.com/keyboards/advantage2-keyboard/)
   - [Freestyle Pro](https://kinesis-ergo.com/products/#freestyle-pro)
   - [Freestyle2](https://kinesis-ergo.com/products/#freestyle2)
-  - [Advantage360](https://kinesis-ergo.com/keyboards/advantage360/) - Coming Late 2022
+  - [Advantage360](https://kinesis-ergo.com/keyboards/advantage360/)
 
 See [Support for my Device](https://kinesis-ergo.com/support/#support-for-my-device) for a list of available products, including models that have been discontinued (Advantage keyboard). 
 
